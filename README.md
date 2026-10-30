@@ -1,6 +1,6 @@
 # Biblioteca - Patrones de Diseño
 
-Sistema sencillo de préstamos de biblioteca desarrollado en Java para la Actividad 10 de Arquitectura de Software. Permite registrar préstamos, consultarlos y calcular multas por retraso.
+Sistema de préstamos de biblioteca desarrollado en Java. Permite registrar préstamos, consultarlos y calcular multas por retraso.
 
 ## Tecnologías y requisitos
 
@@ -63,8 +63,8 @@ Los días de retraso se ingresan manualmente: el programa no calcula fechas de d
 
 ## Ejemplo para probarlo
 
-1. Seleccionar **1** y registrar el libro `El Principito` para `Ana`.
-2. Seleccionar **2** y registrar `Don Quijote` para `Luis`.
+1. Seleccionar **1** y registrar el libro `Caballo de Troya` para `Fernando`.
+2. Seleccionar **2** y registrar `Mil y una Noches` para `Marcelo`.
 3. Seleccionar **3** para ver la lista de préstamos.
 4. Seleccionar **4**, introducir el número `1` y `3` días de retraso: la multa será **Bs 4** (se descuenta un día de tolerancia).
 5. Seleccionar nuevamente **4**, introducir el número `2` y `3` días de retraso: la multa será **Bs 9**.
