@@ -53,8 +53,6 @@ Los préstamos se almacenan solo en memoria: al cerrar el programa, los registro
 
 ## Reglas de multa
 
-Las tarifas son únicamente ejemplos para esta actividad académica, no reglas oficiales de una biblioteca.
-
 - **Préstamo normal:** tiene un día de tolerancia después del plazo. Desde el segundo día de retraso se cobran **Bs 2 por cada día adicional**.
 - **Préstamo corto:** no tiene día de tolerancia. Se cobran **Bs 3 por día** desde el primer día de retraso.
 - Con **0 días de retraso**, la multa es **Bs 0** para ambos tipos.
